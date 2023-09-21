@@ -34,19 +34,20 @@ This is an example of how you may give instructions on setting up your project l
 Prerequisites
 This is an example of how to list things you need to use the software and how to install them.
 
-npm
-npm install npm@latest -g
+
+2) pnpm run dev
 Installation
 Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services.
 
-Get a free API Key at https://example.com
-Clone the repo
-git clone https://github.com/your_username_/Project-Name.git
-Install NPM packages
-npm install
-Enter your API in config.js
-const API_KEY = 'ENTER YOUR API';
-(back to top)
+
+Clone the repo:
+1) git clone https://github.com/mayargp/ies-ds.git
+
+Install NPM packages:
+2) pnpm install
+
+Run the project
+3) pnpm run dev
 
 Usage
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
