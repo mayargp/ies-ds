@@ -49,6 +49,9 @@ Install NPM packages:
 Run the project
 3) pnpm run dev
 
+To apply any change to the main branch use this command:
+4) git push -u origin main
+
 Usage
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
